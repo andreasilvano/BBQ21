@@ -2194,8 +2194,8 @@ a.tags:hover {
     width: 100%;
   }
   .work-img {
-    /* margin-left: -1.25em;
-    margin-right: -1.25em; */
+    margin-left: -1.25em;
+    margin-right: -1.25em;
     width: auto;
   }
   .work-img-detail {
