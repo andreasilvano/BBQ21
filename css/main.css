@@ -101,9 +101,20 @@ a:hover {
   font-family: 'Messapia Regular';
   src: local('☺'), url('../font/Messapia-Regular.woff') format('woff'), url('../font/Px%20Grotesk%20Regular-2.html') format('truetype'), url('../font/Px%20Grotesk%20Regular.svg') format('svg');
 }
+@font-face {
+  font-family: 'Messapia Regular';
+  src: local('☺'), url('../font/Messapia-Regular.woff') format('woff'), url('../font/Px%20Grotesk%20Regular-2.html') format('truetype'), url('../font/Px%20Grotesk%20Regular.svg') format('svg');
+}
 p {
   margin: 0 0 10px;
-}
+  font-family: 'Source Serif Pro', serif;}
+h1 {
+    margin: 10px 0 0 0;
+    font-family: 'Messapia Regular', sans-serif;
+    font-size: .8em;
+    color: inherit;
+    text-rendering: optimizelegibility;
+  }
 h3 {
   margin: 10px 0 0 0;
   font-family: 'Messapia Bold', sans-serif;
