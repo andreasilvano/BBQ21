@@ -446,3 +446,15 @@ svg {
 .pull-left {
   float: left;
 }
+.label {
+  color: white;
+  padding: 6px;
+  font-family: 'Messapia Bold';
+  border-radius: 5px;
+  font-size: .5em;
+}
+.success {background-color: #4CAF50;} /* Green */
+.info {background-color: #2196F3;} /* Blue */
+.warning {background-color: #ff9800;} /* Orange */
+.danger {background-color: #f44336;} /* Red */
+.other {background-color: #e7e7e7; color: black;} /* Gray */
