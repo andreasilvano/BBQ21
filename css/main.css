@@ -461,6 +461,6 @@ svg {
 
 
 .uk-subnav-pill>.uk-active>a {
-    background-color: yellow;
-    color: black;
+    background-color: black;
+    color: white;
 }
