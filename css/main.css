@@ -93,6 +93,11 @@ a:hover {
 .container:after {
   clear: both;
 }
+
+.uk-subnav-pill>.uk-active>a {
+    background-color: black;
+    color: white;
+}
 @font-face {
   font-family: 'Messapia Bold';
   src: local('☺'), url('../font/Messapia-Bold.woff') format('woff'), url('../font/Px%20Grotesk%20Bold-2.html') format('truetype'), url('../font/Px%20Grotesk%20Bold.svg') format('svg');
@@ -458,9 +463,3 @@ svg {
 .warning {background-color: #ff9800;} /* Orange */
 .danger {background-color: #f44336;} /* Red */
 .other {background-color: #e7e7e7; color: black;} /* Gray */
-
-
-.uk-subnav-pill>.uk-active>a {
-    background-color: black;
-    color: white;
-}
