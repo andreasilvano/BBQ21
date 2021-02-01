@@ -135,12 +135,15 @@ h3 {
 }
 ::-moz-selection {
   background: #ffff00;
+  color: black;
 }
 ::selection {
   background: #ffff00;
+  color: black;
 }
 ::-moz-selection {
   background: #ffff00;
+  color: black;
 }
 a {
   text-decoration: none;
