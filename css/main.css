@@ -121,7 +121,7 @@ h1 {
     text-rendering: optimizelegibility;
   }
   h2 {
-      margin: 10px 0 0 0;
+      margin: 10px -40px 0 0;
       font-family: 'Source Serif Pro', serif;
       font-size: .5em;
       color: inherit;
